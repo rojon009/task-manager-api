@@ -9,4 +9,4 @@ Features:
 4. User can delete his task as well.
 5. MongoDB is used as database.
 
-You check this API POSTMAN or any other client testing application.
+You check this API with POSTMAN or any other client testing application.
