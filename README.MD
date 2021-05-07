@@ -7,3 +7,6 @@ Features:
 2. User can create his task with description and duration, and complete is default as false.
 3. User can update his task any time.
 4. User can delete his task as well.
+5. MongoDB is used as database.
+
+You check this API POSTMAN or any other client testing application.
